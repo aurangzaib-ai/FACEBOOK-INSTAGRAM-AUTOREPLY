@@ -1,0 +1,4 @@
+price|Our price starts from $99
+peice|Our price starts from $99
+available|Yes, it is available 😊
+availability|Yes, it is available 😊

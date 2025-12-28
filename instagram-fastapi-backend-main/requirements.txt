@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+requests
+pydantic
+openai
+gspread
+oauth2client
+PyPDF2
+python-docx
+
